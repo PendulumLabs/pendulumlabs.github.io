@@ -1,4 +1,4 @@
-# pendulum-labs.github.io
+# pendulumlabs.github.io
 
 
 We design what you make
