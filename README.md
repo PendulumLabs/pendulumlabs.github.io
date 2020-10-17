@@ -1,4 +1,5 @@
-# pendulumlabs.github.io
+<span style=display:none; >[You are now in a GitHub source code view - click this link to view Read Me file as a web page]( https://pendulumlabs.github.io/2020/  "View file as a web page." ) </span>
+# [![]( icons/octicon.svg )]( https://github.com/pendulumlabs "Source code on GitHub" ) pendulumlabs.github.io
 
 
 We design what you make
